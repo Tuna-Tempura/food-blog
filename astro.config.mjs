@@ -17,7 +17,8 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://astroship.web3templates.com",
+  site: "https://tuna-tempura.github.io",
+  base: "/food-blog",
   integrations: [
     tailwind(),
     alpinejs(),
