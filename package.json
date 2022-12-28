@@ -34,5 +34,18 @@
     "@tailwindcss/typography": "^0.5.7",
     "gh-pages": "^4.0.0",
     "sharp": "^0.31.3"
-  }
+  },
+  "description": "Astroship is a starter template for startups, marketing websites & landing pages. Built with Astro, TailwindCSS & Alpine.js.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuna-Tempura/food-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuna-Tempura/food-blog/issues"
+  },
+  "homepage": "https://github.com/Tuna-Tempura/food-blog#readme"
 }
